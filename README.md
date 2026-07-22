@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o António Correia 👋</h1>
-<h3 align="center">Finalista de Engenharia Informática | Desenvolvimento de Aplicações & Mobile</h3>
+<h3 align="center">Finalista de Engenharia Informática | Desenvolvimento de Aplicações</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ant%C3%B3nio-correia-197799423/">
