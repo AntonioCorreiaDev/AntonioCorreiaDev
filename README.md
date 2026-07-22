@@ -15,7 +15,7 @@
 
 ### 🧭 Sobre mim
 
-Finalista de Engenharia Informática no ISEC, especializado em **Desenvolvimento de Aplicações**, com experiência prática em Java, mobile, sistemas distribuídos e integração de APIs. Gosto de projetos onde a arquitetura importa tanto quanto a funcionalidade — encontras isso nos repositórios abaixo, do full-stack ao mobile e a sistemas em C.
+Finalista de Engenharia Informática no ISEC, com foco em Desenvolvimento de Aplicações e experiência prática em Java, mobile, sistemas distribuídos e integração de APIs. Gosto de desenvolver soluções onde a arquitetura, a escalabilidade e a qualidade da implementação têm peso real. Os projetos abaixo refletem a minha experiência prática em desenvolvimento full-stack, mobile e programação em C.
 
 Atualmente à procura de oportunidades onde possa continuar a crescer tecnicamente e a contribuir com soluções com valor real.
 
