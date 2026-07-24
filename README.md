@@ -67,13 +67,4 @@ Atualmente à procura de oportunidades onde possa continuar a crescer tecnicamen
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonioCorreiaDev&show_icons=true&theme=default&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCorreiaDev&layout=compact&hide_title=true" width="40%" />
-</p>
-
----
-
-<p align="center">📫 Contacto: <b>antoniomncmc17@gmail.com</b> &nbsp;|&nbsp; 📍 Gouveia, Guarda, Portugal</p>
+<p align="center">📫 Contacto: <b>antonio17mncmc@gmail.com</b> &nbsp;|&nbsp; 📍 Gouveia, Guarda, Portugal</p>
