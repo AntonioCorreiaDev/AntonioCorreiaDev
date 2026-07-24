@@ -56,15 +56,4 @@ Atualmente à procura de oportunidades onde possa continuar a crescer tecnicamen
 
 ---
 
-### 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**SkySystem**](https://github.com/AntonioCorreiaDev/skysystem-javafx-scrum) | Sistema full-stack de reserva de voos com recomendações de destino por IA (Gemini) e dados em tempo real (Amadeus). Arquitetura em camadas (Facade, DAO, Singleton). | `Java` `JavaFX` `Maven` `JUnit5` `Mockito` |
-| [**Sistema Educacional**](https://github.com/AntonioCorreiaDev/java-quiz-system-rmi-rest) | Plataforma distribuída de quizzes com REST + RMI, alta disponibilidade com failover automático e replicação via Multicast UDP. | `Java` `RMI` `REST` `SQLite` |
-| [**Safetysec**](https://github.com/AntonioCorreiaDev/safetysec-android-app) | App Android de segurança pessoal com deteção de acidentes, geofencing e alertas em tempo real. Arquitetura MVVM. | `Kotlin` `Jetpack Compose` `Firebase` |
-| [**Unix Pub/Sub**](https://github.com/AntonioCorreiaDev/unix-pubsub-messaging-c) | Sistema de mensagens cliente-servidor em C, com concorrência, IPC via Named Pipes e sincronização por mutexes. | `C` `Linux` `Pthreads` |
-
----
-
 <p align="center">📫 Contacto: <b>antonio17mncmc@gmail.com</b> &nbsp;|&nbsp; 📍 Gouveia, Guarda, Portugal</p>
